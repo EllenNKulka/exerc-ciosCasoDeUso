@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T23:25:56.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kQVmrFtioL8RimYM2CfB" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-11T23:30:03.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ffY8VXuUIrn6RT09PDFE" version="21.1.5" type="github">
   <diagram name="Página-1" id="PxHQPA1PcW-Lm_VtNbx7">
     <mxGraphModel dx="1509" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -423,7 +423,7 @@
         <mxCell id="ppIVRf_82uOVk4r5gdEc-128" value="Manter cadastro&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="2450" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ppIVRf_82uOVk4r5gdEc-129" value="registo de data e hora" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ppIVRf_82uOVk4r5gdEc-129" value="devolver veiculo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="2540" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ppIVRf_82uOVk4r5gdEc-130" value="pagamento do aluguel&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -499,6 +499,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="330" y="2390" as="sourcePoint" />
             <mxPoint x="500" y="2540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppIVRf_82uOVk4r5gdEc-149" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="2580" as="sourcePoint" />
+            <mxPoint x="490" y="2570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
