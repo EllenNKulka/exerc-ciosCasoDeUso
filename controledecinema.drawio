@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T01:22:54.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Utdp6M-_OmbikWggmqFs" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T01:29:27.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_KwvSdOJUqnUJk4MiEWa" version="21.1.8" type="github">
   <diagram name="Página-1" id="PxHQPA1PcW-Lm_VtNbx7">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -509,9 +509,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6McNepDDC-opIboqWIDG-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;alugar quarto&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="3000" width="140" height="70" as="geometry" />
+          <mxGeometry x="300" y="2990" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6McNepDDC-opIboqWIDG-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;manter cadastro&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6McNepDDC-opIboqWIDG-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;manter cadastro cliente&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="3170" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6McNepDDC-opIboqWIDG-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Gerar Fatura&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -524,7 +524,7 @@
           <mxGeometry x="120" y="3360" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6McNepDDC-opIboqWIDG-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;encerrar estadia&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="3090" width="140" height="70" as="geometry" />
+          <mxGeometry x="300" y="3080" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6McNepDDC-opIboqWIDG-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Funcionario&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="90" y="3070" width="30" height="60" as="geometry" />
@@ -583,7 +583,7 @@
             <mxPoint x="280" y="3210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6McNepDDC-opIboqWIDG-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.014;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6McNepDDC-opIboqWIDG-6">
+        <mxCell id="6McNepDDC-opIboqWIDG-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.014;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.914;exitY=0.143;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6McNepDDC-opIboqWIDG-3" target="6McNepDDC-opIboqWIDG-6">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="420" y="3010" as="sourcePoint" />
             <mxPoint x="580" y="3010" as="targetPoint" />
