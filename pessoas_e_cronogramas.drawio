@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T12:54:45.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="qfFVMQLupWpQYGBxvPZc" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-26T13:03:29.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="kBRBLekzQThYy9_Qtpyd" version="23.1.6" type="github">
   <diagram name="Página-1" id="6uS0WetJ5J6ZwX3IwLx4">
     <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="ya2Us7TS8DltyS4jlQr1-9" value="Viviane Antoni &lt;br&gt;(Analista pcp)&lt;br&gt;Programadora de produção&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="365" y="305" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ya2Us7TS8DltyS4jlQr1-10" value="Ailson Santos&amp;nbsp;&lt;br&gt;(gerente industrial)&lt;br&gt;Administra a produção da fabrica&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="370" y="415" width="120" height="60" as="geometry" />
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-10" value="Ailson Santos&amp;nbsp;&lt;br&gt;(gerente industrial)&lt;br&gt;Administra a produção da fabrica&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="620" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ya2Us7TS8DltyS4jlQr1-11" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="190" width="500" height="10" as="geometry" />
@@ -66,6 +66,60 @@
         </mxCell>
         <mxCell id="ya2Us7TS8DltyS4jlQr1-20" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="375" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-21" value="Leonardo &lt;br&gt;operador de máquina de corte de arame&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-23" value="Operador de máquina do corte de chapa&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-24" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="265" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-26" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="475" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-27" value="Oseias&amp;nbsp;&lt;br&gt;operador de máquina (guilhotina)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-28" value="Anderson&amp;nbsp;&lt;br&gt;Op. de máquina (estampar)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-29" value="Paulo&lt;br&gt;op. robô&amp;nbsp;&lt;br&gt;(robô de solda)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="815" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-30" value="Adilce&amp;nbsp;&lt;br&gt;Soldadora manual&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-31" value="Lucas&amp;nbsp;&lt;br&gt;Pintor Industrial&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-32" value="Montador de estrutura de armazenagem&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-33" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="575" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-34" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="675" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-35" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1060" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-36" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="960" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-37" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="875" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-38" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="775" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-43" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Rafael Souza&amp;nbsp;&lt;br&gt;Gestor de Projetos&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="620" y="405" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ya2Us7TS8DltyS4jlQr1-44" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="365" width="10" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
